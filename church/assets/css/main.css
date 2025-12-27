@@ -81,6 +81,11 @@ h2 {
 	display: block;
 	padding: auto;
 	margin-bottom: 5rem;
+	
+}
+
+img {
+	border-radius: 10px;
 }
 
 .c_logo {
@@ -89,6 +94,10 @@ h2 {
 	text-align: center;
 	
 
+}
+
+#welcome {
+	text-align: center;
 }
 
 /* Basic */
